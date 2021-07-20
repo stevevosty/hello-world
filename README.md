@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hello everyone welcome the tutoria of the day am a student at Sydney campus.
+
